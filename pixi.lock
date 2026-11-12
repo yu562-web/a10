@@ -155,6 +155,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-lbfgs-1.2.1.2-r45h3697838_5.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-lubridate-1.9.5-r45h54b55ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-magrittr-2.0.5-r45h54b55ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mapdata-2.3.1-r45h54b55ab_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/r-maps-3.4.3-r45h54b55ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mass-7.3_66-r45h54b55ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-matrix-1.7_6-r45h0e4624f_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mime-0.13-r45h54b55ab_1.conda
@@ -691,6 +693,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-lbfgs-1.2.1.2-r45ha730edb_5.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-lubridate-1.9.5-r45hdab4d57_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-magrittr-2.0.5-r45h8eed41d_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mapdata-2.3.1-r45h735ac91_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-64/r-maps-3.4.3-r45h735ac91_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mass-7.3_66-r45h8eed41d_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-matrix-1.7_6-r45h4b87b14_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mime-0.13-r45h735ac91_1.conda
@@ -1059,6 +1063,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-lhs-1.3.0-r45h1380947_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-lubridate-1.9.5-r45hbe92478_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-magrittr-2.0.5-r45hbe92478_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mapdata-2.3.1-r45h6168396_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-maps-3.4.3-r45h6168396_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mass-7.3_66-r45h4b407c4_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-matrix-1.7_6-r45h3f89421_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mime-0.13-r45h6168396_1.conda
@@ -1266,6 +1272,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-lbfgs-1.2.1.2-r45h3697838_5.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-lubridate-1.9.5-r45h54b55ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-magrittr-2.0.5-r45h54b55ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mapdata-2.3.1-r45h54b55ab_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/r-maps-3.4.3-r45h54b55ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mass-7.3_66-r45h54b55ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-matrix-1.7_6-r45h0e4624f_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mime-0.13-r45h54b55ab_1.conda
@@ -1931,6 +1939,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-lbfgs-1.2.1.2-r45ha730edb_5.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-lubridate-1.9.5-r45hdab4d57_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-magrittr-2.0.5-r45h8eed41d_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mapdata-2.3.1-r45h735ac91_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-64/r-maps-3.4.3-r45h735ac91_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mass-7.3_66-r45h8eed41d_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-matrix-1.7_6-r45h4b87b14_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mime-0.13-r45h735ac91_1.conda
@@ -2368,6 +2378,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-lhs-1.3.0-r45h1380947_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-lubridate-1.9.5-r45hbe92478_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-magrittr-2.0.5-r45hbe92478_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mapdata-2.3.1-r45h6168396_3.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-maps-3.4.3-r45h6168396_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mass-7.3_66-r45h4b407c4_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-matrix-1.7_6-r45h3f89421_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mime-0.13-r45h6168396_1.conda
@@ -4675,6 +4687,33 @@ packages:
   run_exports: {}
   size: 211086
   timestamp: 1775298609420
+- conda: https://conda.anaconda.org/conda-forge/linux-64/r-mapdata-2.3.1-r45h54b55ab_3.conda
+  sha256: 6b095847e7fa22b4231526c2085931289de48c6c59fefcda15ff7cbc1647c37e
+  md5: 48fb65b7dbff1ca3c68a6a1d093b686f
+  depends:
+  - __glibc >=2.17,<3.0.a0
+  - libgcc >=14
+  - r-base >=4.5,<4.6.0a0
+  - r-maps >=2.0_7
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 23582184
+  timestamp: 1758604105005
+- conda: https://conda.anaconda.org/conda-forge/linux-64/r-maps-3.4.3-r45h54b55ab_1.conda
+  sha256: b8ed908606c42562c89d209ab00cf098a87a1a8e5adec0aadabcf23858dca903
+  md5: dbce0dd5f0158fd2900453bf4dfc2ed9
+  depends:
+  - __glibc >=2.17,<3.0.a0
+  - libgcc >=14
+  - r-base >=4.5,<4.6.0a0
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 2378123
+  timestamp: 1757483711315
 - conda: https://conda.anaconda.org/conda-forge/linux-64/r-mass-7.3_66-r45h54b55ab_0.conda
   sha256: 89218d4083593e5eae881fe5136befa358333d90a7de1a0ede13e8cd7bb5244e
   md5: 700d7bffd1c317597b574b218b567017
@@ -11564,6 +11603,31 @@ packages:
   run_exports: {}
   size: 209728
   timestamp: 1775298921562
+- conda: https://conda.anaconda.org/conda-forge/osx-64/r-mapdata-2.3.1-r45h735ac91_3.conda
+  sha256: 2cb600d7971807a0c0c81c1c0f438d52f0a707147e3ee0b86ce731e3877eb50b
+  md5: 9744c2adaca12b79805d348572d3c4c3
+  depends:
+  - __osx >=10.13
+  - r-base >=4.5,<4.6.0a0
+  - r-maps >=2.0_7
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 23618436
+  timestamp: 1758604261519
+- conda: https://conda.anaconda.org/conda-forge/osx-64/r-maps-3.4.3-r45h735ac91_1.conda
+  sha256: f3b6a30e9a96b037fe0a5b264daa750f94305ea86c3f99699629cc754852dc8d
+  md5: 701dd919d2523acc772697c80def26d2
+  depends:
+  - __osx >=10.13
+  - r-base >=4.5,<4.6.0a0
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 2374885
+  timestamp: 1757484062545
 - conda: https://conda.anaconda.org/conda-forge/osx-64/r-mass-7.3_66-r45h8eed41d_0.conda
   sha256: 45671e0576013ff8ffdac9e41aeadd8d40d5e4e45784f807ac31901f300845e0
   md5: 69e112108d552ec48153dee169e6c76d
@@ -14826,6 +14890,31 @@ packages:
   run_exports: {}
   size: 211520
   timestamp: 1775299076457
+- conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mapdata-2.3.1-r45h6168396_3.conda
+  sha256: d405fb1f199bf57635034a1aaa962a0c4fb12a50f48817e1524269f10c7c005c
+  md5: af24d6acea0fb04615be0bbda4ab0b16
+  depends:
+  - __osx >=11.0
+  - r-base >=4.5,<4.6.0a0
+  - r-maps >=2.0_7
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 23394720
+  timestamp: 1758604595117
+- conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-maps-3.4.3-r45h6168396_1.conda
+  sha256: b61737930c0ccaf8e3a199a3d5c1697a5c861b12278d5728b542bddbb3db6627
+  md5: d7d6a0d459af6daba7bf64edc9ee3cc7
+  depends:
+  - __osx >=11.0
+  - r-base >=4.5,<4.6.0a0
+  license: GPL-2.0-only
+  license_family: GPL2
+  purls: []
+  run_exports: {}
+  size: 2374697
+  timestamp: 1757483970882
 - conda: https://conda.anaconda.org/conda-forge/osx-arm64/r-mass-7.3_66-r45h4b407c4_0.conda
   sha256: 72c9bc38e8e6b41063e9cf221772c7582126202156763650053e80c373785c4e
   md5: 4105c4bb7836d9600039d62bce79498c
